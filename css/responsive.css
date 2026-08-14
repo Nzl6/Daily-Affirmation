@@ -1,0 +1,38 @@
+/* Tampilan HP */
+@media (max-width: 600px) {
+    .subpage .back-link {
+        top: 14px;
+        left: 14px;
+    }
+
+    .note {
+        padding: 45px 25px;
+        min-height: 300px;
+    }
+
+    .affirmation {
+        font-size: 20px;
+        line-height: 1.6;
+    }
+
+    .greeting {
+        font-size: 13px;
+    }
+
+    .form-card, .search-results {
+        padding: 25px 20px;
+    }
+
+    .quote-list .sent-note {
+        padding: 40px 25px;
+        min-height: 200px;
+    }
+
+    .search-form {
+        flex-direction: column;
+    }
+
+    .search-form .submit-button {
+        min-height: 42px;
+    }
+}

@@ -1,0 +1,7 @@
+const quotes = [
+    {
+        text: "",
+        category: ""
+    },
+    
+]
